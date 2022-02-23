@@ -1,0 +1,1 @@
+Calculos simples de multiplicação e divisão embutido em um sistemas de skills points.

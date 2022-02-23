@@ -1,0 +1,15 @@
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\bin\Debug\net6.0\TreinoSolo.exe
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\bin\Debug\net6.0\TreinoSolo.deps.json
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\bin\Debug\net6.0\TreinoSolo.runtimeconfig.json
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\bin\Debug\net6.0\TreinoSolo.dll
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\bin\Debug\net6.0\ref\TreinoSolo.dll
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\bin\Debug\net6.0\TreinoSolo.pdb
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\TreinoSolo.csproj.AssemblyReference.cache
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\TreinoSolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\TreinoSolo.AssemblyInfoInputs.cache
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\TreinoSolo.AssemblyInfo.cs
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\TreinoSolo.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\TreinoSolo.dll
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\ref\TreinoSolo.dll
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\TreinoSolo.pdb
+C:\Users\Douglas\DigitalInnovationOne\DesafiosNET\TreinoSolo\obj\Debug\net6.0\TreinoSolo.genruntimeconfig.cache
